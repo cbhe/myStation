@@ -8,4 +8,5 @@ title: "Latest Posts"
 {% for post in site.posts %}
 	{% include post-grid.html %}
 {% endfor %}
+<h1>Hello World </h1>
 </div><!-- /.tiles -->
